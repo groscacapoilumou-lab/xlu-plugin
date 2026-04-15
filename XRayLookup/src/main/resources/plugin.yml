@@ -1,0 +1,8 @@
+name: XRayLookup
+version: 1.0
+main: com.xraylookup.XRayLookup
+api-version: '1.21'
+commands:
+  xlu:
+    description: Main command for XRayLookup
+    permission: xlu.admin

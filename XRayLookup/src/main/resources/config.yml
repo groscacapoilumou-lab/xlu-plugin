@@ -1,0 +1,7 @@
+# X-Ray Detection Settings
+min-total-ores: 50
+diamond-ratio-threshold: 15.0 # Percentage
+
+# Messages
+prefix: "&8[&bXRayLookup&8] &r"
+no-permission: "&cYou don't have permission!"
