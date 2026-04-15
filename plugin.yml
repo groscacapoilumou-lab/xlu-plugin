@@ -1,0 +1,17 @@
+# FullXray Plugin Configuration
+# Configuration for tracking ores mined
+
+plugin:
+  name: "FullXray"
+  version: "1.0"
+  tracking:
+    enabled: true
+    ores:
+      - diamond
+      - emerald
+      - gold
+      - iron
+      - coal
+  notifications:
+    enabled: true
+    message: "You have mined an ore!"
